@@ -1,16 +1,32 @@
-### Hi there 👋
+### I'm Skaz <a><img height="30" width="30" alt="pfp" src="https://raw.githubusercontent.com/quintenvandamme/quintenvandamme/main/badges/src/mona-loading/mona-loading-dark.gif" />
 
-<!--
-**sk10az/sk10az** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Daniel Zaks. I'm 19 years old and i'm currently focused on my Software Engineering
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=sk10az&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk10az&layout=compact&exclude_repo=sk10az.github.io&theme=rose_pine&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
+```
+sk10az:~$ fetchme
+           (                .  ZaksDanil@dpr
+            )               │
+           (                ├─ Uptime ~ 19years
+    /\  .-"""-.  /\         ├─ OS ~ Arch Linux
+   //\\/  ,,,  \//\\        ├─ Languages ~ Go, Python, Shell
+   |/\| ,;;;;;, |/\|        ├─ DE ~ BSPWM/XFCE/GNOME
+   //\\\;-"""-;///\\        ├─ Shell ~ zsh
+  //  \/   .   \/  \\       ├─ Terminal ~ Kitty
+ (| ,-_| \ | / |_-, |)      ├─ Editor ~ Emacs, VSCode, GoLand
+   //`__\.-.-./__`\\        └─ Hobbies ~ Manga, reading and gardening
+  // /.-(() ())-.\ \\"
+ (\ |)   '---'   (| /)      .  contacts
+  ` (|           |) `       │
+    \)           (/         ├─ Email ~ sk10azik@gmail.com
+                            ├─ Instagram ~ sk10az
+                            └─ Telegram ~ https://t.me/sk10az
+```
+
+[![@sk10az's Holopin board](https://holopin.me/sk10az)](https://holopin.io/@sk10az)
