@@ -11,7 +11,7 @@ tg:@lok4lz
 sk10az:~$ fetchme
            (                .  Skaz@logout
             )               │
-           (                ├─ Uptime ~ 23years
+           (                ├─ Uptime ~ 19years
     /\  .-"""-.  /\         ├─ OS ~ Arch Linux
    //\\/  ,,,  \//\\        ├─ Languages ~ Python, Shell
    |/\| ,;;;;;, |/\|        ├─ DE ~ BSPWM/XFCE
